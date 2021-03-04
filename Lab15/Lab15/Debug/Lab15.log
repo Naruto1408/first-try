@@ -1,0 +1,4 @@
+﻿  Lab15.c
+C:\КН-105\VS2019\Lab15\Lab15\Lab15.c(42,17): warning C4013: 'gets' undefined; assuming extern returning int
+C:\КН-105\VS2019\Lab15\Lab15\Lab15.c(86,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab15.vcxproj -> C:\КН-105\VS2019\Lab15\Debug\Lab15.exe
